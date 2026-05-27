@@ -54,7 +54,7 @@ body {
 	.name {
 		text-align: center;
 		font-size: 2.8em;
-		color: gainsboro;
+		color: darkgray;
 		margin-top: 15%;
 		margin-bottom: auto;
 		text-transform: capitalize;
@@ -79,6 +79,18 @@ body {
 		margin-bottom: 40px;
 	}
 	.location {
+		text-align: center;
+		color: white;
+		font-size: 1.5em;
+		display: block;
+		background-color: rgba(175,133,255,1);
+		padding: 10px;
+		margin-left: 31%;
+		margin-right: 31%;
+		border-radius: 8px;
+		
+	}
+	.location_index {
 		text-align: center;
 		color: white;
 		font-size: 1.5em;
@@ -128,7 +140,7 @@ body {
 		padding-left: 4px;
 		text-align: center;
 		font-size: 2.5em;
-		color: gainsboro;
+		color: darkgray;
 		margin-top: 16%;
 		margin-bottom: auto;
 		text-transform: capitalize;
@@ -196,7 +208,7 @@ body {
 		padding-left: 4px;
 		text-align: center;
 		font-size: 2.8em;
-		color: gainsboro;
+		color: darkgray;
 		margin-top: 16%;
 		margin-bottom: auto;
 		text-transform: capitalize;
@@ -263,7 +275,7 @@ body {
 	.name {
 		text-align: center;
 		font-size: 2.5em;
-		color: gainsboro;
+		color: darkgray;
 		margin-top: 16%;
 		margin-bottom: auto;
 		text-transform: capitalize;
